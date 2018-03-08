@@ -1,0 +1,11 @@
+{
+  "name": "elearningsystem",
+  "version": "1.0.0",
+  "description": "every student can join to room and every teacher can create room and teachers can all write in white board in the room",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
