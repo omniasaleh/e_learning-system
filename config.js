@@ -1,3 +1,4 @@
 module.exports = {
-  'db'     : 'mongodb://OmniaSaleh:omnia_ashraf@ds012578.mlab.com:12578/elearning'
+  'db'     : 'mongodb://OmniaSaleh:omnia_ashraf@ds012578.mlab.com:12578/elearning',
+  'secret' : 'dsjdsdlaslpdwdwwpoiuytqwecvnuht'
 }
